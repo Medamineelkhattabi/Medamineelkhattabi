@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,reactnative,tensorflow,laravel,mysql,mongodb,aws,git,docker,kubernetes" />
+</p>
+
+<p align="center">
   <a href="https://medamineelkhattabi.netlify.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mohamed-amine-el-khattabi-b09ab0212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/medamine1337" target="_blank"><img alt="X" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"></a>
