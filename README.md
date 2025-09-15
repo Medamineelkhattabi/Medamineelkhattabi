@@ -7,10 +7,11 @@
 ---
 
 ## 🌐 Connect with Me  
+<p align="center">
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://medamineelkhattabi.netlify.app/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-el-khattabi-b09ab0212/)  
 [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/medamine1337)  
-
+</p>
 ---
 
 ## 🛠 Tech Stack  
