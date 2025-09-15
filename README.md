@@ -125,13 +125,10 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Medamineelkhattabi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
-
-<!-- Optional: Contribution activity graph (uncomment if you like it) -->
-<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Medamineelkhattabi&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
--->
+
 
 ---
 
@@ -146,10 +143,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Medamineelkhattabi&theme=darkhub&no-frame=true&margin-w=15" alt="Trophies"/>
 </p>
-
-<!-- Optional: Profile counters (toggle on if you want) -->
-<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Medamineelkhattabi&style=for-the-badge" alt="Profile Views"/>
 </p>
--->
