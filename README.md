@@ -82,7 +82,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Medamineelkhattabi&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Medamineelkhattabi&theme=tokyonight&hide_border=true)
 
 
 ---
