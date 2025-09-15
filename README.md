@@ -17,13 +17,13 @@
   <a href="https://x.com/medamine1337" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-</p>
+</p>  
 
+---
 
 ## 🛠 Tech Stack  
 
 ### 🚀 Languages  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
-</p>
+</p>  
 
 ### ⚙️ Backend  
 <p align="center">
@@ -86,6 +86,8 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>  
 
+---
+
 ## 📌 Featured Projects  
 - 🤖 **AI Conversational Assistant** – NLP-powered chatbot for Oracle i-Supplier (FastAPI + Gemini AI).  
 - 🚛 **Freight Management System** – Full-stack logistics platform (NestJS backend, Next.js frontend, Figma UI).  
@@ -95,15 +97,24 @@
 ---
 
 ## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Medamineelkhattabi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Medamineelkhattabi&show_icons=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Medamineelkhattabi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>  
 
 ---
 
 ## 🏆 Achievements & Trophies  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Medamineelkhattabi&theme=darkhub&no-frame=true&margin-w=15)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Medamineelkhattabi&theme=darkhub&no-frame=true&margin-w=15" alt="Trophies" />
+</p>  
 
 ---
 
