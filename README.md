@@ -84,7 +84,7 @@
 ---
 
 ## 🏆 Achievements & Trophies  
-![trophy](https://github-profile-trophy.vercel.app/?username=medamine1337&theme=darkhub&no-frame=true&margin-w=15)  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Medamineelkhattabi&theme=darkhub&no-frame=true&margin-w=15)
 
 ---
 
