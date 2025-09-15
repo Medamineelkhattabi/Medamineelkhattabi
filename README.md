@@ -123,9 +123,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Medamineelkhattabi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Medamineelkhattabi&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
 </p>
 
