@@ -77,9 +77,13 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medamine1337&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medamine1337&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=medamine1337&theme=tokyonight&hide_border=true)  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Medamineelkhattabi&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Medamineelkhattabi&theme=tokyonight&hide_border=true)
+
 
 ---
 
