@@ -78,7 +78,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
 </p>  
----
 
 ## 📌 Featured Projects  
 - 🤖 **AI Conversational Assistant** – NLP-powered chatbot for Oracle i-Supplier (FastAPI + Gemini AI).  
