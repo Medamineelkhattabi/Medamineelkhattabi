@@ -134,8 +134,5 @@
 
 ## 🏆 Achievements & Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Medamineelkhattabi&theme=darkhub&no-frame=true&margin-w=15" alt="Trophies"/>
-</p>
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Medamineelkhattabi&style=for-the-badge" alt="Profile Views"/>
 </p>
