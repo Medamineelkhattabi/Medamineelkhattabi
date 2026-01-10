@@ -101,20 +101,6 @@ CV optimization & AI interviews using **Gemini AI + Voice NLP**
 
 ---
 
-## 📊 Live GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Medamineelkhattabi&show_icons=true&theme=tokyonight&border_radius=12"/>
-<br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Medamineelkhattabi&theme=tokyonight&border_radius=12"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Medamineelkhattabi&theme=tokyo-night"/>
