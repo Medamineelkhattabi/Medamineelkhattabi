@@ -1,130 +1,103 @@
-<!-- ========================= -->
-<!--        HERO AREA          -->
-<!-- ========================= -->
+<!-- ======================= -->
+<!--        HERO            -->
+<!-- ======================= -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Mohamed+Amine+El+Khattabi;AI+Engineer+%7C+Data+Engineer;Building+Intelligent+Systems" />
+<h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700;">
+Mohamed Amine El Khattabi
+</h1>
+
+<p style="font-size:16px;">
+<b>AI Engineer • Data Engineer • Full-Stack Innovator</b><br/>
+Designing intelligent systems where <b>AI</b>, <b>data</b> and <b>software engineering</b> meet real-world impact.
+</p>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff,100:005eff&height=180&section=header&text=AI%20%7C%20Data%20%7C%20Engineering&fontSize=28&fontColor=ffffff" />
+<a href="https://medamineelkhattabi.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohamed-amine-el-khattabi-b09ab0212/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/Medamineelkhattabi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+<a href="mailto:Medamine4elkhattabi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-</div>
-
----
-
-<div align="center">
-  <b style="font-size:18px;">Final-year Computer Engineering Student • AI Engineer • Full-Stack Innovator</b><br/>
-  Designing scalable AI systems that power <b>logistics, healthcare, and smart mobility</b>.
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://medamineelkhattabi.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-el-khattabi-b09ab0212/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/Medamineelkhattabi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:Medamine4elkhattabi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </div>
 
 ---
 
 ## 🧠 About Me
-<div style="font-family: 'Segoe UI', sans-serif; font-size:15px">
+I am a **final-year Computer & Network Engineering student at EMSI (Tangier)** specializing in  
+**Artificial Intelligence, Data Engineering, and Full-Stack Systems**.
 
-I am an **AI & Data Engineer** specializing in building **real-world intelligent systems**.  
-My expertise spans **machine learning, real-time data pipelines, backend architecture, and modern web apps**.
+I build **production-ready AI platforms** for:
+- Logistics & mobility
+- Healthcare
+- Enterprise automation
 
-I have worked on **enterprise-grade AI systems** at:
-- **Tanger Med Port Authority**
-- **Mediacaris**
-- **Large-scale logistics & mobility platforms**
-
-I build systems where **AI meets production**.
-
-</div>
+I have delivered **real systems** for **Tanger Med Port Authority** and **Mediacaris**, combining  
+**machine learning, real-time data pipelines, and scalable backends**.
 
 ---
 
 ## 🚀 What I Build
-<table>
-<tr>
-<td><b>AI Systems</b></td><td>NLP Assistants, Predictive Models, CV, Recommendation Engines</td>
-</tr>
-<tr>
-<td><b>Data Engineering</b></td><td>Kafka, Spark, PostgreSQL, Pipelines, Streaming Analytics</td>
-</tr>
-<tr>
-<td><b>Backend</b></td><td>FastAPI, NestJS, Auth, APIs, Microservices</td>
-</tr>
-<tr>
-<td><b>Frontend</b></td><td>React, Next.js, Tailwind, shadcn/ui</td>
-</tr>
-<tr>
-<td><b>DevOps</b></td><td>Docker, CI/CD, Linux, Nginx, Kubernetes</td>
-</tr>
-</table>
+
+| Domain | Expertise |
+|------|---------|
+| **Artificial Intelligence** | NLP, ML models, recommendation systems, AI assistants |
+| **Data Engineering** | Kafka, Spark, PostgreSQL, streaming & pipelines |
+| **Backend** | FastAPI, NestJS, Express, auth, APIs |
+| **Frontend** | React, Next.js, Tailwind, shadcn/ui |
+| **DevOps** | Docker, CI/CD, Linux, Nginx |
 
 ---
 
 ## 🧩 Flagship Projects
 
-🧠 **AI Supplier Assistant (Tanger Med)**  
-Multilingual enterprise AI assistant using **FastAPI + Rasa + LangChain + Gemini**
+**🤖 AI Supplier Assistant (Tanger Med)**  
+Multilingual enterprise assistant using FastAPI, Rasa, LangChain & Gemini AI.
 
-🚛 **Smart Mobility Platform**  
-Real-time **GPS + AIS + Ticketing → Kafka → Spark → LSTM + GNN → Dashboards**
+**🚛 Smart Mobility Platform**  
+Real-time GPS, AIS & ticketing → Kafka → Spark → LSTM & GNN → dashboards.
 
-🏥 **Clinical Decision Support System**  
-AI diagnosis & triage using **Random Forest + Neural Networks + FHIR**
+**🏥 Clinical Decision Support System**  
+AI-powered diagnosis & triage with Random Forest, Neural Networks & FHIR.
 
-💼 **NextHire AI**  
-CV optimization & AI interviews using **Gemini AI + Voice NLP**
+**💼 NextHire AI**  
+CV optimization & AI interview simulator using NLP and voice models.
 
 ---
 
-## 🛠 Technology Stack
+## 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,cpp,react,nextjs,fastapi,nestjs,django,nodejs,docker,kubernetes,linux,postgres,mysql,mongodb,redis,git,githubactions,tensorflow&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,cpp,react,nextjs,fastapi,nestjs,django,nodejs,postgres,mysql,mongodb,redis,docker,linux,git,githubactions,tensorflow&perline=8"/>
 
 </div>
 
 ---
 
-## 📊 Live GitHub Analytics
+## 📊 GitHub Performance
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Medamineelkhattabi&show_icons=true&theme=tokyonight&border_radius=12"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Medamineelkhattabi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Medamineelkhattabi&theme=tokyonight&border_radius=12"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Medamineelkhattabi&theme=tokyonight&hide_border=true"/>
+
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=tokyonight"/>
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-## 📈 Contribution Graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Medamineelkhattabi&theme=tokyo-night"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Medamineelkhattabi&theme=onestar&row=1&no-frame=true"/>
 </div>
 
 ---
@@ -137,16 +110,12 @@ CV optimization & AI interviews using **Gemini AI + Voice NLP**
 ---
 
 ## 🎯 Current Focus
-- Building **production-grade AI assistants**
-- Designing **real-time data pipelines**
-- Mastering **MLOps & LLM engineering**
+- Enterprise **AI assistants**
+- **Real-time data platforms**
+- **LLM & MLOps engineering**
 
 ---
 
 <div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=Medamineelkhattabi&style=for-the-badge"/>
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005eff,100:00e5ff&height=120&section=footer"/>
