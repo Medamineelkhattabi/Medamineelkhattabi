@@ -122,13 +122,6 @@ CV optimization & AI interviews using **Gemini AI + Voice NLP**
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Medamineelkhattabi&theme=onestar&row=1&no-frame=true"/>
-</div>
-
----
-
 ## 🌍 Languages
 - Arabic 🇲🇦 — Native  
 - French 🇫🇷 — C1  
