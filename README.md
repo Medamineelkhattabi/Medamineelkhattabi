@@ -229,13 +229,13 @@ AI-driven CV optimization and an automated voice-based interview & scoring syste
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/0-profile-details.svg?v=1"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/2077/0-profile-details.svg?v=1"/>
 
-<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=1"/>
-<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/2-most-commit-language.svg?v=1"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/2077/1-repos-per-language.svg?v=1"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/2077/2-most-commit-language.svg?v=1"/>
 
-<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/3-stats.svg?v=1"/>
-<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/4-productive-time.svg?v=1"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/2077/3-stats.svg?v=1"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/2077/4-productive-time.svg?v=1"/>
 
 </div>
 
