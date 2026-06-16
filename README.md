@@ -173,24 +173,24 @@ AI-driven CV optimization and an automated voice-based interview & scoring syste
 <div align="center">
 
 <a href="https://github.com/Medamineelkhattabi/Smart-Mobility-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=Smart-Mobility-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Medamineelkhattabi&repo=Smart-Mobility-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
 </a>
 <a href="https://github.com/Medamineelkhattabi/AIAgentsMedical">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=AIAgentsMedical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Medamineelkhattabi&repo=AIAgentsMedical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
 </a>
 
 <a href="https://github.com/Medamineelkhattabi/immobilier_maroc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=immobilier_maroc&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Medamineelkhattabi&repo=immobilier_maroc&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
 </a>
 <a href="https://github.com/Medamineelkhattabi/covid-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=covid-analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Medamineelkhattabi&repo=covid-analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
 </a>
 
 <a href="https://github.com/Medamineelkhattabi/CargoManager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=CargoManager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Medamineelkhattabi&repo=CargoManager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
 </a>
 <a href="https://github.com/Medamineelkhattabi/boilerplate-sea-level-predictor-main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=boilerplate-sea-level-predictor-main&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Medamineelkhattabi&repo=boilerplate-sea-level-predictor-main&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
 </a>
 
 </div>
@@ -205,8 +205,8 @@ AI-driven CV optimization and an automated voice-based interview & scoring syste
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Medamineelkhattabi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Medamineelkhattabi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&langs_count=8"/>
 
 <br/>
 
@@ -229,13 +229,13 @@ AI-driven CV optimization and an automated voice-based interview & scoring syste
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/0-profile-details.svg"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/0-profile-details.svg?v=1"/>
 
-<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/1-repos-per-language.svg"/>
-<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/1-repos-per-language.svg?v=1"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/2-most-commit-language.svg?v=1"/>
 
-<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/3-stats.svg"/>
-<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/4-productive-time.svg"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/3-stats.svg?v=1"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/profile-summary-card-output/tokyonight/4-productive-time.svg?v=1"/>
 
 </div>
 
@@ -250,7 +250,7 @@ AI-driven CV optimization and an automated voice-based interview & scoring syste
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/main/github-metrics.svg"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/main/github-metrics.svg?v=1"/>
 
 </div>
 
