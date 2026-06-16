@@ -1,135 +1,262 @@
-<!-- ========================= -->
-<!--          HERO             -->
-<!-- ========================= -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            HERO BANNER                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=32&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=800&lines=Mohamed+Amine+El+Khattabi;AI+Engineer+%7C+Data+Engineer;Building+Production-Ready+Intelligent+Systems" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:0095FF,100:005EFF&height=200&section=header&text=Mohamed%20Amine%20El%20Khattabi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Data%20Engineer%20%C2%B7%20Full-Stack%20Builder&descSize=18&descAlignY=58" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ff,100:005eff&height=180&section=header&text=AI%20%7C%20Data%20%7C%20Engineering&fontSize=28&fontColor=ffffff" />
+<a href="https://github.com/Medamineelkhattabi">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=900&height=45&lines=Building+production-ready+intelligent+systems;Real-time+data+pipelines+%7C+Kafka+%2B+Spark+%2B+LSTM;LLM+engineering+%7C+RAG+%7C+MLOps+%7C+Computer+Vision;Turning+AI+research+into+systems+that+ship" />
+</a>
 
-</div>
+<br/><br/>
 
----
+<!-- SOCIAL LINKS -->
+<a href="https://medamineelkhattabi.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/mohamed-amine-el-khattabi-b09ab0212/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Medamineelkhattabi">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:Medamine4elkhattabi@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<div align="center">
-<b>Final-Year Computer Engineering Student • AI Engineer • Full-Stack Engineer</b><br/>
-Designing scalable intelligent systems powering logistics, healthcare, and smart mobility.
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Medamineelkhattabi&style=flat-square&color=00E5FF&label=PROFILE+VIEWS"/>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://medamineelkhattabi.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mohamed-amine-el-khattabi-b09ab0212/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/Medamineelkhattabi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="mailto:Medamine4elkhattabi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                              ABOUT                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
----
+## &nbsp;`👨‍💻` &nbsp;Who I Am
 
-## About
+```python
+class MohamedAmine:
+    def __init__(self):
+        self.role        = "AI & Data Engineer"
+        self.education   = "Final-Year Computer Engineering Student"
+        self.location    = "Tangier, Morocco 🇲🇦"
+        self.focus       = ["Production AI", "Streaming Data", "MLOps", "LLMs"]
+        self.industries  = ["Logistics", "Healthcare", "Smart Mobility"]
+        self.shipped_for = ["Tanger Med Port Authority", "Mediacaris"]
 
-I am an **AI & Data Engineer** focused on building real-world intelligent systems.
+    def mission(self):
+        return "Build systems where AI actually meets production."
+```
 
-My work integrates machine learning, real-time data pipelines, and scalable backend architectures to deliver production-ready solutions.
+I design **scalable intelligent systems** that bridge machine learning, real-time data
+pipelines, and robust backend architecture — and I ship them into real environments.
 
-I have contributed to enterprise-grade systems for:
+<br/>
 
-- Tanger Med Port Authority  
-- Mediacaris  
-- Large-scale logistics & mobility platforms  
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            TECH STACK                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-I build systems where AI meets production environments.
+## &nbsp;`🛠️` &nbsp;Tech Arsenal
 
----
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-## Core Expertise
+**AI / ML**
+<br/><br/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat-square&logo=rasa&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
 
-| Domain | Capabilities |
-|--------|-------------|
-| **AI Systems** | NLP assistants, predictive modeling, computer vision, recommendation engines |
-| **Data Engineering** | Kafka, Spark, streaming pipelines, real-time analytics |
-| **Backend Engineering** | FastAPI, NestJS, microservices, authentication, APIs |
-| **Frontend Development** | React, Next.js, Tailwind, modern UI systems |
-| **DevOps & Infrastructure** | Docker, CI/CD, Linux, Nginx, Kubernetes |
+</td>
+<td align="center" width="50%">
 
----
+**Data Engineering**
+<br/><br/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
 
-## Flagship Projects
+</td>
+</tr>
+<tr>
+<td align="center">
 
-### AI Supplier Assistant — Tanger Med
-Enterprise multilingual assistant for supplier operations  
-**Stack:** FastAPI · Rasa · LangChain · Gemini
+**Backend**
+<br/><br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
 
-### Smart Mobility Platform
-Real-time transport intelligence & predictive analytics  
-**Pipeline:** GPS + AIS + Ticketing → Kafka → Spark → LSTM + GNN → Dashboards
+</td>
+<td align="center">
 
-### Clinical Decision Support System
-AI-assisted diagnosis and triage platform  
-**Models:** Random Forest · Neural Networks · FHIR integration
+**Frontend & DevOps**
+<br/><br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
-### NextHire AI
-AI-driven CV optimization & automated interview system  
-**Stack:** Gemini AI · Voice NLP · evaluation scoring
-
----
-
-## Technology Stack
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,cpp,react,nextjs,fastapi,nestjs,django,nodejs,docker,kubernetes,linux,postgres,mysql,mongodb,redis,git,githubactions,tensorflow&perline=8" />
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Medamineelkhattabi&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Contribution Activity
+</td>
+</tr>
+</table>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Medamineelkhattabi&theme=tokyo-night"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,cpp,react,nextjs,fastapi,nestjs,django,nodejs,docker,kubernetes,linux,nginx,postgres,mysql,mongodb,redis,git,githubactions,tensorflow,pytorch&perline=12" />
 </div>
 
----
+<br/>
 
-## Languages
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          FLAGSHIP WORK                           -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-Arabic — Native  
-French — Professional (C1)  
-English — Professional Working Proficiency  
+## &nbsp;`🚀` &nbsp;Flagship Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Current Focus
+### 🏗️ AI Supplier Assistant — *Tanger Med*
+Enterprise **multilingual** assistant automating supplier operations for one of
+Africa's largest ports.
 
-- Production-grade AI assistants  
-- Real-time data pipelines & streaming systems  
-- MLOps and LLM engineering  
-- Scalable AI system deployment  
+`FastAPI` `Rasa` `LangChain` `Gemini`
 
----
+</td>
+<td width="50%" valign="top">
+
+### 🚦 Smart Mobility Platform
+Real-time transport intelligence with predictive analytics over fused sensor streams.
+
+`GPS + AIS + Ticketing → Kafka → Spark → LSTM + GNN → Dashboards`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 Clinical Decision Support System
+AI-assisted diagnosis & triage with standards-compliant healthcare integration.
+
+`Random Forest` `Neural Networks` `FHIR`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 NextHire AI
+AI-driven CV optimization and an automated voice-based interview & scoring system.
+
+`Gemini AI` `Voice NLP` `Evaluation Scoring`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          GITHUB STATS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## &nbsp;`📊` &nbsp;GitHub Analytics
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Medamineelkhattabi&style=for-the-badge"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Medamineelkhattabi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&langs_count=8"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Medamineelkhattabi&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Medamineelkhattabi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:005eff,100:00e5ff&height=120&section=footer"/>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CONTRIBUTION SNAKE                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## &nbsp;`🐍` &nbsp;Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Medamineelkhattabi&theme=tokyo-night&bg_color=0D1117&color=00E5FF&line=00E5FF&point=ffffff&hide_border=true&area=true"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        LANGUAGES & FOCUS                         -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## &nbsp;`🌍` &nbsp;Languages &nbsp;·&nbsp; `🎯` Current Focus
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**Spoken**
+| Language | Level |
+|----------|-------|
+| Arabic   | Native |
+| French   | Professional · C1 |
+| English  | Professional Working |
+
+</td>
+<td valign="top" width="50%">
+
+**Building Now**
+- ⚡ Production-grade AI assistants
+- 🔄 Real-time streaming pipelines
+- 🤖 MLOps & LLM engineering
+- ☁️ Scalable AI deployment
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+> *"I build systems where AI meets production."*
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                              FOOTER                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:005EFF,50:0095FF,100:00E5FF&height=120&section=footer"/>
