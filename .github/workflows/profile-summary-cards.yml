@@ -4,9 +4,10 @@ on:
   schedule:
     - cron: "0 0 * * *"     # once a day
   workflow_dispatch:          # manual run button
-  push:
-    branches:
-      - main
+
+concurrency:
+  group: profile-summary-cards
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -16,7 +17,6 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
-
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
