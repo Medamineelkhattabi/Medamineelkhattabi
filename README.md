@@ -107,6 +107,7 @@ pipelines, and robust backend architecture — and I ship them into real environ
 **Backend**
 <br/><br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -118,6 +119,7 @@ pipelines, and robust backend architecture — and I ship them into real environ
 <br/><br/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
 
@@ -133,10 +135,10 @@ pipelines, and robust backend architecture — and I ship them into real environ
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                          FLAGSHIP WORK                           -->
+<!--                          ENTERPRISE WORK                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## &nbsp;`🚀` &nbsp;Flagship Projects
+## &nbsp;`🏢` &nbsp;Enterprise & Flagship Work
 
 <table>
 <tr>
@@ -151,24 +153,6 @@ Africa's largest ports.
 </td>
 <td width="50%" valign="top">
 
-### 🚦 Smart Mobility Platform
-Real-time transport intelligence with predictive analytics over fused sensor streams.
-
-`GPS + AIS + Ticketing → Kafka → Spark → LSTM + GNN → Dashboards`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🩺 Clinical Decision Support System
-AI-assisted diagnosis & triage with standards-compliant healthcare integration.
-
-`Random Forest` `Neural Networks` `FHIR`
-
-</td>
-<td width="50%" valign="top">
-
 ### 🎯 NextHire AI
 AI-driven CV optimization and an automated voice-based interview & scoring system.
 
@@ -178,14 +162,35 @@ AI-driven CV optimization and an automated voice-based interview & scoring syste
 </tr>
 </table>
 
-<!-- ░░░ PINNED REPO CARDS — replace REPO_NAME_x with your real repo names ░░░ -->
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        FEATURED REPOS                            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## &nbsp;`🚀` &nbsp;Featured Repositories
+
 <div align="center">
 
-<a href="https://github.com/Medamineelkhattabi/REPO_NAME_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=REPO_NAME_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+<a href="https://github.com/Medamineelkhattabi/Smart-Mobility-Platform">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=Smart-Mobility-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
 </a>
-<a href="https://github.com/Medamineelkhattabi/REPO_NAME_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=REPO_NAME_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+<a href="https://github.com/Medamineelkhattabi/AIAgentsMedical">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=AIAgentsMedical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+</a>
+
+<a href="https://github.com/Medamineelkhattabi/immobilier_maroc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=immobilier_maroc&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+</a>
+<a href="https://github.com/Medamineelkhattabi/covid-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=covid-analysis&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+</a>
+
+<a href="https://github.com/Medamineelkhattabi/CargoManager">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=CargoManager&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
+</a>
+<a href="https://github.com/Medamineelkhattabi/boilerplate-sea-level-predictor-main">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=boilerplate-sea-level-predictor-main&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF"/>
 </a>
 
 </div>
