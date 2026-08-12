@@ -192,19 +192,9 @@ AI-driven CV optimization and an automated voice-based interview
 
 ## &nbsp;`📊` &nbsp;GitHub Analytics
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Medamineelkhattabi&layout=compact&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=c9d1d9&langs_count=8"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Medamineelkhattabi&theme=radical&hide_border=true&background=0F0C29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Medamineelkhattabi&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
-
-</div>
 
 <br/>
 
