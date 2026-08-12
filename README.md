@@ -187,41 +187,6 @@ AI-driven CV optimization and an automated voice-based interview
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        FEATURED REPOS                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## &nbsp;`🚀` &nbsp;Featured Repositories
-
-<div align="center">
-
-<a href="https://github.com/Medamineelkhattabi/Smart-Mobility-Platform">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=Smart-Mobility-Platform&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-<a href="https://github.com/Medamineelkhattabi/AIAgentsMedical">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=AIAgentsMedical&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-
-<a href="https://github.com/Medamineelkhattabi/immobilier_maroc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=immobilier_maroc&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-<a href="https://github.com/Medamineelkhattabi/covid-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=covid-analysis&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-
-<a href="https://github.com/Medamineelkhattabi/CargoManager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=CargoManager&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-<a href="https://github.com/Medamineelkhattabi/boilerplate-sea-level-predictor-main">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Medamineelkhattabi&repo=boilerplate-sea-level-predictor-main&theme=radical&hide_border=true&bg_color=0F0C29&title_color=A78BFA&icon_color=A78BFA"/>
-</a>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                          GITHUB STATS                            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
