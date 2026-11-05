@@ -9,13 +9,13 @@
 
 <img src="assets/marquee.svg" width="100%" alt="Production AI · AI assistants · Real-time pipelines · Kafka + Spark · LLM engineering · RAG · MLOps · Computer vision · Scalable deployment"/>
 
-<br/><br/>
+<br/>
 
 <img src="assets/section-01.svg" width="100%" alt="01 — Who I am"/>
 
 <img src="assets/terminal.svg" width="100%" alt="whoami: Mohamed Amine El Khattabi, AI &amp; Data Engineer in Tangier, Morocco. Final-year Computer Engineering student. Focus: production AI, streaming data, MLOps, LLMs. Industries: logistics, healthcare, smart mobility. Shipped for Tanger Med Port Authority and Mediacaris. Languages: Arabic (native), French (C1), English (professional). Mission: build systems where AI actually meets production."/>
 
-<br/><br/>
+<br/>
 
 <img src="assets/section-02.svg" width="100%" alt="02 — Arsenal"/>
 
@@ -23,7 +23,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,ts,js,java,rust,cpp,pytorch,tensorflow,sklearn,fastapi,flask,django,nestjs,nodejs,spring,react,nextjs,tailwind,kafka,postgres,mongodb,redis,docker,kubernetes,jenkins,githubactions,linux,git&perline=14&theme=dark" width="92%" alt="Python, TypeScript, JavaScript, Java, Rust, C++, PyTorch, TensorFlow, scikit-learn, FastAPI, Flask, Django, NestJS, Node.js, Spring, React, Next.js, Tailwind, Kafka, PostgreSQL, MongoDB, Redis, Docker, Kubernetes, Jenkins, GitHub Actions, Linux, Git"/>
 
-<br/><br/>
+<br/>
 
 <img src="assets/section-03.svg" width="100%" alt="03 — Selected work"/>
 
@@ -34,21 +34,15 @@
 <a href="https://github.com/Medamineelkhattabi/Real-time-object-detection"><img src="assets/card-object-detection.svg" width="49%" alt="Real-time Object Detection — live webcam detection, tracking and line-crossing counts. YOLO, FastAPI, React."/></a>
 <a href="https://github.com/Medamineelkhattabi/Smart-Mobility-Platform"><img src="assets/card-smart-mobility.svg" width="49%" alt="Smart Mobility Platform — behavior-aware analytics for passenger and vehicle flows."/></a>
 
-<br/><br/>
+<br/>
 
 <img src="assets/section-04.svg" width="100%" alt="04 — Telemetry"/>
 
-<img src="https://streak-stats.demolab.com/?user=Medamineelkhattabi&background=0A0614&border=2A2045&stroke=2A2045&ring=A78BFA&fire=F472B6&currStreakNum=F3F0FF&sideNums=F3F0FF&currStreakLabel=A78BFA&sideLabels=C9C2E3&dates=8B83A6&border_radius=22&card_width=600&card_height=200" width="63%" alt="GitHub contribution streak"/>
-<img src="profile-summary-card-output/midnight_purple/3-stats.svg" width="35.4%" alt="GitHub stats"/>
-<img src="profile-summary-card-output/midnight_purple/1-repos-per-language.svg" width="49%" alt="Repositories per language"/>
-<img src="profile-summary-card-output/midnight_purple/2-most-commit-language.svg" width="49%" alt="Most committed languages"/>
+<img src="https://streak-stats.demolab.com/?user=Medamineelkhattabi&background=0A0614&border=2A2045&stroke=2A2045&ring=A78BFA&fire=F472B6&currStreakNum=F3F0FF&sideNums=F3F0FF&currStreakLabel=A78BFA&sideLabels=C9C2E3&dates=8B83A6&border_radius=22&card_width=1000&card_height=200" width="100%" alt="GitHub contribution streak"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/output/github-contribution-grid-snake-dark.svg"/>
-  <img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution graph eaten by a snake"/>
-</picture>
+<img src="assets/heatmap.svg" width="100%" alt="Contribution heatmap, November 2025 to November 2026"/>
 
-<br/><br/>
+<br/>
 
 <img src="assets/section-05.svg" width="100%" alt="05 — Contact"/>
 
@@ -58,7 +52,7 @@
 <a href="https://www.linkedin.com/in/mohamed-amine-el-khattabi-b09ab0212/"><img src="assets/btn-linkedin.svg" width="32.3%" alt="LinkedIn"/></a>
 <a href="mailto:Medamine4elkhattabi@gmail.com"><img src="assets/btn-email.svg" width="32.3%" alt="Email"/></a>
 
-<br/><br/>
+<br/>
 
 <img src="assets/footer.svg" width="100%" alt="End of transmission — crafted in Tangier, Morocco"/>
 
