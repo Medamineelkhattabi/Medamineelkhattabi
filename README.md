@@ -77,7 +77,7 @@ them into real environments, not just notebooks.
 </td>
 <td width="45%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Medamineelkhattabi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0F0C29&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9" width="100%"/>
+<img src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/main/profile-summary-card-output/2077/3-stats.svg" alt="GitHub stats" width="100%"/>
 
 </td>
 </tr>
@@ -192,9 +192,7 @@ AI-driven CV optimization and an automated voice-based interview
 
 ## &nbsp;`📊` &nbsp;GitHub Analytics
 
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Medamineelkhattabi&theme=radical&hide_border=true&background=0F0C29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img src="https://streak-stats.demolab.com/?user=Medamineelkhattabi&theme=radical&hide_border=true&background=0F0C29&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 <br/>
 
@@ -209,7 +207,7 @@ AI-driven CV optimization and an automated voice-based interview
 
 [![](https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/main/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/main/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/main/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/main/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/main/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
@@ -243,10 +241,6 @@ AI-driven CV optimization and an automated voice-based interview
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/output/github-contribution-grid-snake.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/Medamineelkhattabi/Medamineelkhattabi/output/github-contribution-grid-snake.svg" />
 </picture>
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Medamineelkhattabi&theme=react-dark&bg_color=0F0C29&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true&area=true"/>
 
 </div>
 
