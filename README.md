@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<a href="https://medamineelkhattabi.netlify.app"><img src="assets/hero.svg" width="100%" alt="Mohamed Amine El Khattabi — AI Engineer, Data Engineer, Full-Stack Builder. Tangier, Morocco. Open to select AI and data roles."/></a>
+<a href="https://medamineelkhattabi.me"><img src="assets/hero.svg" width="100%" alt="Mohamed Amine El Khattabi — AI Automation Engineer, Data Engineer, Full-Stack Builder. Tangier, Morocco. Open to select AI and data roles."/></a>
 
 <img src="assets/marquee.svg" width="100%" alt="Production AI · AI assistants · Real-time pipelines · Kafka &amp; Spark · LLM engineering · Retrieval-augmented generation · MLOps · Computer vision · Scalable deployment"/>
 
@@ -25,8 +25,8 @@
 
 <img src="assets/section-03.svg" width="100%" alt="III. Selected work — engagements and open source"/>
 
-<a href="https://medamineelkhattabi.netlify.app"><img src="assets/card-tanger-med.svg" width="49%" alt="N° 01 — AI Supplier Assistant (Tanger Med): a multilingual enterprise assistant automating supplier operations. FastAPI, Rasa, LangChain, Gemini."/></a>
-<a href="https://medamineelkhattabi.netlify.app"><img src="assets/card-nexthire.svg" width="49%" alt="N° 02 — NextHire AI: AI-driven CV optimisation with automated voice-based interviews and evaluation scoring."/></a>
+<a href="https://medamineelkhattabi.me"><img src="assets/card-tanger-med.svg" width="49%" alt="N° 01 — AI Supplier Assistant (Tanger Med): a multilingual enterprise assistant automating supplier operations. FastAPI, Rasa, LangChain, Gemini."/></a>
+<a href="https://medamineelkhattabi.me"><img src="assets/card-nexthire.svg" width="49%" alt="N° 02 — NextHire AI: AI-driven CV optimisation with automated voice-based interviews and evaluation scoring."/></a>
 <a href="https://github.com/Medamineelkhattabi/typely"><img src="assets/card-typely.svg" width="49%" alt="N° 03 — Typely: the writing assistant that works in every app and keeps your text on your own computer. Tauri 2, Rust, TypeScript."/></a>
 <a href="https://github.com/Medamineelkhattabi/semantic-rag"><img src="assets/card-semantic-rag.svg" width="49%" alt="N° 04 — RAG Intelligence Lab: basic RAG against semantic graph RAG, side by side."/></a>
 <a href="https://github.com/Medamineelkhattabi/Real-time-object-detection"><img src="assets/card-object-detection.svg" width="49%" alt="N° 05 — Real-time Object Detection: live webcam detection, tracking and line-crossing counts. YOLO, FastAPI, React."/></a>
@@ -46,7 +46,7 @@
 
 <img src="assets/contact.svg" width="100%" alt="Let's build something remarkable. Open to AI and data engineering projects and roles — I reply fast."/>
 
-<a href="https://medamineelkhattabi.netlify.app"><img src="assets/btn-portfolio.svg" width="32.3%" alt="Portfolio — medamineelkhattabi.netlify.app"/></a>
+<a href="https://medamineelkhattabi.me"><img src="assets/btn-portfolio.svg" width="32.3%" alt="Portfolio — medamineelkhattabi.me"/></a>
 <a href="https://www.linkedin.com/in/mohamed-amine-el-khattabi-b09ab0212/"><img src="assets/btn-linkedin.svg" width="32.3%" alt="LinkedIn — in/mohamed-amine-el-khattabi"/></a>
 <a href="mailto:Medamine4elkhattabi@gmail.com"><img src="assets/btn-email.svg" width="32.3%" alt="Email — Medamine4elkhattabi@gmail.com"/></a>
 
