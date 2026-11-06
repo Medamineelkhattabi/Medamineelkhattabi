@@ -1,59 +1,98 @@
+<a name="top"></a>
+
 <!--
   Mohamed Amine El Khattabi — GitHub profile
-  Every panel below is a hand-built SVG in ./assets
+  Every panel is a hand-built SVG in ./assets, with a light-theme twin in ./assets/light
 -->
 
 <div align="center">
 
-<a href="https://medamineelkhattabi.me"><img src="assets/hero.svg" width="100%" alt="Mohamed Amine El Khattabi — AI Automation Engineer, Data Engineer, Full-Stack Builder. Tangier, Morocco. Open to select AI and data roles."/></a>
+<a href="https://medamineelkhattabi.me"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/hero.svg"><img src="assets/hero.svg" width="100%" alt="Mohamed Amine El Khattabi — AI Automation Engineer, Data Engineer, Full-Stack Builder. Tangier, Morocco. I build AI agents, LLM workflows and real-time data pipelines that run in production. Open to select AI and data roles."/></picture></a>
 
-<img src="assets/marquee.svg" width="100%" alt="Production AI · AI assistants · Real-time pipelines · Kafka &amp; Spark · LLM engineering · Retrieval-augmented generation · MLOps · Computer vision · Scalable deployment"/>
+<a href="#profile"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/nav-01.svg"><img src="assets/nav-01.svg" width="19.6%" alt="Go to Profile"/></picture></a><a href="#expertise"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/nav-02.svg"><img src="assets/nav-02.svg" width="19.6%" alt="Go to Expertise"/></picture></a><a href="#work"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/nav-03.svg"><img src="assets/nav-03.svg" width="19.6%" alt="Go to Work"/></picture></a><a href="#activity"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/nav-04.svg"><img src="assets/nav-04.svg" width="19.6%" alt="Go to Activity"/></picture></a><a href="#contact"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/nav-05.svg"><img src="assets/nav-05.svg" width="19.6%" alt="Go to Contact"/></picture></a>
 
-<br/>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/marquee.svg"><img src="assets/marquee.svg" width="100%" alt="AI automation · AI agents · LLM engineering · Real-time pipelines · Kafka &amp; Spark · Retrieval-augmented generation · Computer vision · MLOps · Production AI"/></picture>
 
-<img src="assets/section-01.svg" width="100%" alt="I. Profile — the essentials"/>
+<a name="profile"></a>
 
-<img src="assets/profile.svg" width="100%" alt="Build systems where AI actually meets production. I design scalable intelligent systems that bridge machine learning, real-time data pipelines and robust backend architecture — and I ship them into real environments, not just notebooks. Role: AI &amp; Data Engineer. Education: final-year Computer Engineering student. Based in Tangier, Morocco. Focus: production AI, streaming data, MLOps, LLMs. Industries: logistics, healthcare, smart mobility. Shipped for Tanger Med Port Authority and Mediacaris. Languages: Arabic (native), French (C1), English (professional)."/>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/section-01.svg"><img src="assets/section-01.svg" width="100%" alt="I. Profile — the essentials"/></picture>
 
-<br/>
-
-<img src="assets/section-02.svg" width="100%" alt="II. Expertise — disciplines and tools"/>
-
-<img src="assets/expertise.svg" width="100%" alt="Intelligence: PyTorch, TensorFlow, scikit-learn, LangChain, Rasa, Gemini, YOLO, LSTM. Data: Apache Kafka, Apache Spark, PostgreSQL, MongoDB, Redis. Backend: FastAPI, Flask, Django, NestJS, Node.js, Spring Boot. Interface &amp; Ops: React, Next.js, Streamlit, Docker, Kubernetes, Jenkins, GitHub Actions."/>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/profile.svg"><img src="assets/profile.svg" width="100%" alt="Build systems where AI actually meets production. I design scalable intelligent systems that bridge machine learning, real-time data pipelines and robust backend architecture, and I ship them into real environments, not just notebooks. Role: AI Automation Engineer. Education: final-year Computer Engineering student. Based in Tangier, Morocco. Focus: production AI, streaming data, MLOps, LLMs. Industries: logistics, healthcare, smart mobility. Shipped for Tanger Med Port Authority and Mediacaris. Languages: Arabic (native), French (C1), English (professional)."/></picture>
 
 <br/>
 
-<img src="assets/section-03.svg" width="100%" alt="III. Selected work — engagements and open source"/>
+<a name="expertise"></a>
 
-<a href="https://medamineelkhattabi.me"><img src="assets/card-tanger-med.svg" width="49%" alt="N° 01 — AI Supplier Assistant (Tanger Med): a multilingual enterprise assistant automating supplier operations. FastAPI, Rasa, LangChain, Gemini."/></a>
-<a href="https://medamineelkhattabi.me"><img src="assets/card-nexthire.svg" width="49%" alt="N° 02 — NextHire AI: AI-driven CV optimisation with automated voice-based interviews and evaluation scoring."/></a>
-<a href="https://github.com/Medamineelkhattabi/typely"><img src="assets/card-typely.svg" width="49%" alt="N° 03 — Typely: the writing assistant that works in every app and keeps your text on your own computer. Tauri 2, Rust, TypeScript."/></a>
-<a href="https://github.com/Medamineelkhattabi/semantic-rag"><img src="assets/card-semantic-rag.svg" width="49%" alt="N° 04 — RAG Intelligence Lab: basic RAG against semantic graph RAG, side by side."/></a>
-<a href="https://github.com/Medamineelkhattabi/Real-time-object-detection"><img src="assets/card-object-detection.svg" width="49%" alt="N° 05 — Real-time Object Detection: live webcam detection, tracking and line-crossing counts. YOLO, FastAPI, React."/></a>
-<a href="https://github.com/Medamineelkhattabi/Smart-Mobility-Platform"><img src="assets/card-smart-mobility.svg" width="49%" alt="N° 06 — Smart Mobility Platform: behaviour-aware analytics for passenger and vehicle flows."/></a>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/section-02.svg"><img src="assets/section-02.svg" width="100%" alt="II. Expertise — disciplines and tools"/></picture>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/expertise.svg"><img src="assets/expertise.svg" width="100%" alt="Intelligence: PyTorch, TensorFlow, scikit-learn, LangChain, Rasa, Gemini, OpenAI API, Ollama, YOLO, LSTM. Data: Apache Kafka, Apache Spark, PostgreSQL, MongoDB, Redis. Backend: FastAPI, Flask, Django, NestJS, Node.js, Spring Boot. Interface &amp; Ops: React, Next.js, Streamlit, Docker, Kubernetes, Jenkins, GitHub Actions."/></picture>
 
 <br/>
 
-<img src="assets/section-04.svg" width="100%" alt="IV. Activity — a year on GitHub"/>
+<a name="work"></a>
 
-<img src="https://streak-stats.demolab.com/?user=Medamineelkhattabi&background=0D0D0F&border=2B261E&stroke=2B261E&ring=C9A96E&fire=EEDDB4&currStreakNum=F2EDE4&sideNums=F2EDE4&currStreakLabel=C9A96E&sideLabels=A39B8B&dates=6B6457&border_radius=18&card_width=1000&card_height=200" width="100%" alt="GitHub contribution streak"/>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/section-03.svg"><img src="assets/section-03.svg" width="100%" alt="III. Selected work — engagements and open source"/></picture>
 
-<img src="assets/heatmap.svg" width="100%" alt="Contribution ledger, November 2025 to November 2026"/>
+<a href="https://medamineelkhattabi.me"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/card-tanger-med.svg"><img src="assets/card-tanger-med.svg" width="100%" alt="N° 01 — AI Supplier Assistant (Tanger Med): a multilingual enterprise assistant automating supplier operations for one of Africa's largest ports. FastAPI, Rasa, LangChain, Gemini. In production."/></picture></a>
+
+<a href="https://medamineelkhattabi.me"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/card-nexthire.svg"><img src="assets/card-nexthire.svg" width="100%" alt="N° 02 — NextHire AI: AI-driven CV optimisation paired with automated, voice-based interviews and evaluation scoring."/></picture></a>
+
+<a href="https://github.com/Medamineelkhattabi/typely"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/card-typely.svg"><img src="assets/card-typely.svg" width="100%" alt="N° 03 — Typely: the writing assistant that works in every app and keeps your text on your own computer. Tauri 2, Rust, TypeScript, Ollama."/></picture></a>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/open-case.svg"><img src="assets/open-case.svg" width="46%" alt="Open the case file: how it works"/></picture></summary>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/arch-typely.svg"><img src="assets/arch-typely.svg" width="100%" alt="How Typely works: any app, Rust core (Tauri 2), floating panel, rules and spelling, local AI through Ollama, then Replace pastes the result back."/></picture>
+
+</details>
+
+<a href="https://github.com/Medamineelkhattabi/semantic-rag"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/card-semantic-rag.svg"><img src="assets/card-semantic-rag.svg" width="100%" alt="N° 04 — RAG Intelligence Lab: basic RAG against semantic graph RAG, side by side."/></picture></a>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/open-case.svg"><img src="assets/open-case.svg" width="46%" alt="Open the case file: how it works"/></picture></summary>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/arch-semantic-rag.svg"><img src="assets/arch-semantic-rag.svg" width="100%" alt="How the RAG Intelligence Lab works: one corpus feeds basic RAG (chunks, bge-m3, FAISS) and semantic RAG (knowledge graph, multi-hop paths), both answered by the same LLM."/></picture>
+
+</details>
+
+<a href="https://github.com/Medamineelkhattabi/Real-time-object-detection"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/card-object-detection.svg"><img src="assets/card-object-detection.svg" width="100%" alt="N° 05 — Real-time Object Detection: live webcam detection, tracking and line-crossing counts. YOLO, FastAPI, React, SQLite."/></picture></a>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/open-case.svg"><img src="assets/open-case.svg" width="46%" alt="Open the case file: how it works"/></picture></summary>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/arch-object-detection.svg"><img src="assets/arch-object-detection.svg" width="100%" alt="How Real-time Object Detection works: browser frame, FastAPI WebSocket, YOLO detection, tracking, counting, annotation, results back to the browser, detections batched into SQLite."/></picture>
+
+</details>
+
+<a href="https://github.com/Medamineelkhattabi/Smart-Mobility-Platform"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/card-smart-mobility.svg"><img src="assets/card-smart-mobility.svg" width="100%" alt="N° 06 — Smart Mobility Platform: behaviour-aware analytics for passenger and vehicle flows. Kafka, Spark, FastAPI, LSTM."/></picture></a>
+
+<details>
+<summary><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/open-case.svg"><img src="assets/open-case.svg" width="46%" alt="Open the case file: how it works"/></picture></summary>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/arch-smart-mobility.svg"><img src="assets/arch-smart-mobility.svg" width="100%" alt="How the Smart Mobility Platform works: data sources, Kafka and MQTT ingestion, Spark processing, LSTM and GNN models, FastAPI, Streamlit dashboard."/></picture>
+
+</details>
 
 <br/>
 
-<img src="assets/section-05.svg" width="100%" alt="V. Correspondence — let's talk"/>
+<a name="activity"></a>
 
-<img src="assets/contact.svg" width="100%" alt="Let's build something remarkable. Open to AI and data engineering projects and roles — I reply fast."/>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/section-04.svg"><img src="assets/section-04.svg" width="100%" alt="IV. Activity — the last twelve months"/></picture>
 
-<a href="https://medamineelkhattabi.me"><img src="assets/btn-portfolio.svg" width="32.3%" alt="Portfolio — medamineelkhattabi.me"/></a>
-<a href="https://www.linkedin.com/in/mohamed-amine-el-khattabi-b09ab0212/"><img src="assets/btn-linkedin.svg" width="32.3%" alt="LinkedIn — in/mohamed-amine-el-khattabi"/></a>
-<a href="mailto:Medamine4elkhattabi@gmail.com"><img src="assets/btn-email.svg" width="32.3%" alt="Email — Medamine4elkhattabi@gmail.com"/></a>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/stats.svg"><img src="assets/stats.svg" width="100%" alt="The last twelve months, including private client work: 820 contributions, 102 active days, 39 pull requests merged, 24 public projects."/></picture>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/heatmap.svg"><img src="assets/heatmap.svg" width="100%" alt="Contribution ledger, November 2025 to November 2026, including private client work."/></picture>
 
 <br/>
 
-<img src="assets/footer.svg" width="100%" alt="Crafted in Tangier, MMXXVI"/>
+<a name="contact"></a>
 
-<img src="https://komarev.com/ghpvc/?username=Medamineelkhattabi&style=flat-square&color=C9A96E&labelColor=0D0D0F&label=VISITORS" alt="Profile visitors"/>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/section-05.svg"><img src="assets/section-05.svg" width="100%" alt="V. Correspondence — let's talk"/></picture>
+
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/light/contact.svg"><img src="assets/contact.svg" width="100%" alt="Let's build something remarkable. Open to AI and data engineering projects and roles. I reply fast."/></picture>
+
+<a href="https://medamineelkhattabi.me"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-portfolio.svg"><img src="assets/btn-portfolio.svg" width="32.3%" alt="Portfolio — medamineelkhattabi.me"/></picture></a><a href="https://www.linkedin.com/in/mohamed-amine-el-khattabi-b09ab0212/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-linkedin.svg"><img src="assets/btn-linkedin.svg" width="32.3%" alt="LinkedIn — in/mohamed-amine-el-khattabi"/></picture></a><a href="mailto:Medamine4elkhattabi@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/btn-email.svg"><img src="assets/btn-email.svg" width="32.3%" alt="Email — Medamine4elkhattabi@gmail.com"/></picture></a>
+
+<a href="#top"><picture><source media="(prefers-color-scheme: light)" srcset="assets/light/footer.svg"><img src="assets/footer.svg" width="100%" alt="Crafted in Tangier, MMXXVI. Back to top."/></picture></a>
 
 </div>
